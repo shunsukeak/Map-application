@@ -1,0 +1,13 @@
+#map { height: 95vh; width: 100vw; }
+* { margin: 0px; padding: 0px; }
+
+#btn_container {
+   position:absolute;
+   left:12px; bottom:20px;
+   z-index: 1000;
+}
+
+.TSP_button {
+  width: 150px;
+  height:50px;
+}
